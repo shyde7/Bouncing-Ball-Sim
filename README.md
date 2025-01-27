@@ -14,3 +14,4 @@ This is a very simple Python program, I am just messing around with the pygame l
 - **Q**: Quit the simulation.
 
 ## GIF Preview
+![](https://github.com/shyde7/Bouncing-Ball-Sim/blob/main/ball-vid.gif)
